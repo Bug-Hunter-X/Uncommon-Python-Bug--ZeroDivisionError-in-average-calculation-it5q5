@@ -1,0 +1,1 @@
+This repository demonstrates a potential ZeroDivisionError in Python when calculating the average of a list.  The bug occurs when an empty list is passed to the `calculate_average` function.  A robust solution is provided to handle this edge case and prevent the error.
